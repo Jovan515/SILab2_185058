@@ -7,7 +7,8 @@
 
 
 Control Flow Graph
+![SlLab2](https://user-images.githubusercontent.com/81372704/120220741-82e87c80-c23d-11eb-911a-f6283cad7121.png)
 
-<img src=
+
 
 
